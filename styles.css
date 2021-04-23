@@ -38,23 +38,3 @@ td {
 input[type="number"] {
   width: 6em;
 }
-
-li {
-  width: 15px;
-  height: 15px;
-  list-style-position: inside;
-  border: 1px solid black;
-  margin: 0px;
-  font-size: 70px;
-  text-align: center;
-  font-family: helvetica;
-  background-color: rgb(173, 217, 231);
-}
-
-ul {
-  list-style-type: none;
-  display: flex;
-  flex-wrap: wrap;
-
-  padding-left: 0;
-}
